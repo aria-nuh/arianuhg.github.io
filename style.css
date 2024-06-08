@@ -2,6 +2,9 @@
     padding-top: 6rem;
     background-color: #e2edff;
 }
+.card {
+    font-size: 150%;
+}
 .projects{
     background-color: #e2edff;
 }
